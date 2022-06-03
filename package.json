@@ -1,0 +1,28 @@
+{
+  "name": "void-documentation",
+  "version": "0.0.1",
+  "description": "Create custom docs for your minecraft mods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Void-Packages/void-documentation.git"
+  },
+  "keywords": [
+    "Docs",
+    "Documentation",
+    "Minecraft",
+    "Mods"
+  ],
+  "author": "Mrthomas20121",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JS-Void-Packages/void-documentation/issues"
+  },
+  "homepage": "https://github.com/JS-Void-Packages/void-documentation#readme",
+  "dependencies": {
+    "void-jsonc": "^0.0.1"
+  }
+}
